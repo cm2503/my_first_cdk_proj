@@ -56,3 +56,5 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+
+# Adding a comment to test git commits
